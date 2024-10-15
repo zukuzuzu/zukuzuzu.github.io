@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://zukuzuzu.github.io/sitemap/sitemap_index.txt.gz
